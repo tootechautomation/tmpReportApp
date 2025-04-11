@@ -2,7 +2,7 @@ AMLI Marina
 Boardwalk Marina
 Catalina Yacht Anchorage
 Kewalo Basin Buildings
-EXPIREDKewalo Basin Harbor
+Kewalo Basin Harbor
 Portside Ventura Harbor
 Treasure Isle Marina
 Westport Marina
